@@ -1,0 +1,15 @@
+E:\BackEnd-Web\Test_C#\Bai3\bin\Debug\net8.0\Bai3.exe
+E:\BackEnd-Web\Test_C#\Bai3\bin\Debug\net8.0\Bai3.deps.json
+E:\BackEnd-Web\Test_C#\Bai3\bin\Debug\net8.0\Bai3.runtimeconfig.json
+E:\BackEnd-Web\Test_C#\Bai3\bin\Debug\net8.0\Bai3.dll
+E:\BackEnd-Web\Test_C#\Bai3\bin\Debug\net8.0\Bai3.pdb
+E:\BackEnd-Web\Test_C#\Bai3\obj\Debug\net8.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd-Web\Test_C#\Bai3\obj\Debug\net8.0\Bai3.AssemblyInfoInputs.cache
+E:\BackEnd-Web\Test_C#\Bai3\obj\Debug\net8.0\Bai3.AssemblyInfo.cs
+E:\BackEnd-Web\Test_C#\Bai3\obj\Debug\net8.0\Bai3.csproj.CoreCompileInputs.cache
+E:\BackEnd-Web\Test_C#\Bai3\obj\Debug\net8.0\Bai3.sourcelink.json
+E:\BackEnd-Web\Test_C#\Bai3\obj\Debug\net8.0\Bai3.dll
+E:\BackEnd-Web\Test_C#\Bai3\obj\Debug\net8.0\refint\Bai3.dll
+E:\BackEnd-Web\Test_C#\Bai3\obj\Debug\net8.0\Bai3.pdb
+E:\BackEnd-Web\Test_C#\Bai3\obj\Debug\net8.0\Bai3.genruntimeconfig.cache
+E:\BackEnd-Web\Test_C#\Bai3\obj\Debug\net8.0\ref\Bai3.dll

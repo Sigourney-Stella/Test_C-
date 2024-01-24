@@ -1,0 +1,15 @@
+E:\BackEnd-Web\Test_C#\Test_C#\bin\Debug\net8.0\Test_C#.exe
+E:\BackEnd-Web\Test_C#\Test_C#\bin\Debug\net8.0\Test_C#.deps.json
+E:\BackEnd-Web\Test_C#\Test_C#\bin\Debug\net8.0\Test_C#.runtimeconfig.json
+E:\BackEnd-Web\Test_C#\Test_C#\bin\Debug\net8.0\Test_C#.dll
+E:\BackEnd-Web\Test_C#\Test_C#\bin\Debug\net8.0\Test_C#.pdb
+E:\BackEnd-Web\Test_C#\Test_C#\obj\Debug\net8.0\Test_C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd-Web\Test_C#\Test_C#\obj\Debug\net8.0\Test_C#.AssemblyInfoInputs.cache
+E:\BackEnd-Web\Test_C#\Test_C#\obj\Debug\net8.0\Test_C#.AssemblyInfo.cs
+E:\BackEnd-Web\Test_C#\Test_C#\obj\Debug\net8.0\Test_C#.csproj.CoreCompileInputs.cache
+E:\BackEnd-Web\Test_C#\Test_C#\obj\Debug\net8.0\Test_C#.sourcelink.json
+E:\BackEnd-Web\Test_C#\Test_C#\obj\Debug\net8.0\Test_C#.dll
+E:\BackEnd-Web\Test_C#\Test_C#\obj\Debug\net8.0\refint\Test_C#.dll
+E:\BackEnd-Web\Test_C#\Test_C#\obj\Debug\net8.0\Test_C#.pdb
+E:\BackEnd-Web\Test_C#\Test_C#\obj\Debug\net8.0\Test_C#.genruntimeconfig.cache
+E:\BackEnd-Web\Test_C#\Test_C#\obj\Debug\net8.0\ref\Test_C#.dll
